@@ -23,8 +23,10 @@ https://github.com/openai/codex
 
 https://github.com/HKUDS/OpenHarness  
 
-### other
-https://github.com/langchain-ai/langmem  
+### memory
+https://github.com/langchain-ai/langmem
+
+### other  
 https://github.com/karpathy/autoresearch  
 https://github.com/aiming-lab/AutoResearchClaw  
 https://github.com/uditgoenka/autoresearch  
