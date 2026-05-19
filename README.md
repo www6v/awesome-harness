@@ -33,8 +33,8 @@ https://github.com/letta-ai/letta
 https://github.com/topoteretes/cognee  
 
 ### tool - cli
-https://github.com/jackwener/OpenCLI
-https://github.com/HKUDS/CLI-Anything
+https://github.com/jackwener/OpenCLI  
+https://github.com/HKUDS/CLI-Anything 
 
 
 ### self-evolving
