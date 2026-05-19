@@ -30,7 +30,7 @@ https://github.com/agentscope-ai/ReMe
 https://github.com/Tencent/TencentDB-Agent-Memory  
 https://github.com/mem0ai/mem0  
 https://github.com/letta-ai/letta
-https://github.com/topoteretes/cognee
+https://github.com/topoteretes/cognee  
 
 
 ### self-evolving
