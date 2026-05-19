@@ -9,7 +9,7 @@ https://github.com/openclaw/acpx
 
 
 
-### cli
+### cli coding
 https://github.com/oboard/claude-code-rev  
 https://github.com/ultraworkers/claw-code  
 https://github.com/VILA-Lab/Dive-into-Claude-Code  
@@ -25,8 +25,13 @@ https://github.com/HKUDS/OpenHarness
 
 ### memory
 https://github.com/langchain-ai/langmem
+https://github.com/volcengine/OpenViking
+https://github.com/agentscope-ai/ReMe
+https://github.com/Tencent/TencentDB-Agent-Memory
+https://github.com/mem0ai/mem0
 
-### other  
+
+### self-evolving
 https://github.com/karpathy/autoresearch  
 https://github.com/aiming-lab/AutoResearchClaw  
 https://github.com/uditgoenka/autoresearch  
