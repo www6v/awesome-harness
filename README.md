@@ -24,11 +24,11 @@ https://github.com/openai/codex
 https://github.com/HKUDS/OpenHarness  
 
 ### memory
-https://github.com/langchain-ai/langmem
-https://github.com/volcengine/OpenViking
-https://github.com/agentscope-ai/ReMe
-https://github.com/Tencent/TencentDB-Agent-Memory
-https://github.com/mem0ai/mem0
+https://github.com/langchain-ai/langmem  
+https://github.com/volcengine/OpenViking 
+https://github.com/agentscope-ai/ReMe 
+https://github.com/Tencent/TencentDB-Agent-Memory 
+https://github.com/mem0ai/mem0 
 
 
 ### self-evolving
