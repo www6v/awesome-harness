@@ -77,3 +77,5 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [1Panel-dev / ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) ![GitHub Repo stars](https://img.shields.io/github/stars/1Panel-dev/ClawSwarm?style=social) | Multi-agent orchestration | ⭐️⭐️ | 1Panel claw swarm deployment and management. |
 | [Leochens / feishu-bot-chat-plugin](https://github.com/Leochens/feishu-bot-chat-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/Leochens/feishu-bot-chat-plugin?style=social) | Feishu / Lark integration | | Feishu bot chat plugin for agent hubs. |
 
+
+

@@ -77,3 +77,5 @@
 | [1Panel-dev / ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) ![GitHub Repo stars](https://img.shields.io/github/stars/1Panel-dev/ClawSwarm?style=social) | 多智能体编排 | ⭐️⭐️ | 1Panel Claw 集群部署与管理。 |
 | [Leochens / feishu-bot-chat-plugin](https://github.com/Leochens/feishu-bot-chat-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/Leochens/feishu-bot-chat-plugin?style=social) | 飞书集成 | | 面向智能体中枢的飞书机器人聊天插件。 |
 
+
+
