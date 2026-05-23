@@ -4,8 +4,9 @@ https://github.com/ConardLi/garden-skills/tree/main/skills/web-video-presentatio
 
 
 # claude
-claude for legal
-claude for financial 
+claude for legal. 
+claude for financial   
+https://github.com/anthropics/claude-plugins-official/tree/main/plugins 
 
 
 # IaC
