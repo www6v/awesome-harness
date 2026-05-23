@@ -16,6 +16,9 @@ https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-lo
 https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-md-management.  
 
 
+### claude.md
+https://github.com/multica-ai/andrej-karpathy-skills. 
+
 
 
 
