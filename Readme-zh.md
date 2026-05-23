@@ -50,7 +50,7 @@
 | [langchain-ai / langmem](https://github.com/langchain-ai/langmem) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social) | 智能体记忆 SDK | ⭐️⭐️ | LangChain 智能体记忆工具库。 |
 | [gastownhall / beads](https://github.com/gastownhall/beads) ![GitHub Repo stars](https://img.shields.io/github/stars/gastownhall/beads?style=social) | 图谱 Issue 追踪 / 智能体记忆 | ⭐️⭐️⭐️ | 基于 Dolt 的分布式图谱 Issue 追踪器，为编程智能体提供持久结构化记忆。 |
 
-## 工具 — CLI
+## 工具
 
 | 项目 | 分类 | 推荐 | 说明 |
 | --- | --- | :---: | --- |
