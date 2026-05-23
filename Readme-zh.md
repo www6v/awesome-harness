@@ -6,6 +6,14 @@
 
 *按主题分组；Star 数使用 [Shields.io](https://img.shields.io) 的 `github/stars` 徽章展示（`k`/`m` 后缀为近似值）。*
 
+## Awesome
+
+| 项目 | 分类 | 推荐 | 说明 |
+| --- | --- | :---: | --- |
+| [AutoJunjie / awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) ![GitHub Repo stars](https://img.shields.io/github/stars/AutoJunjie/awesome-agent-harness?style=social) | 精选开源列表 | | 社区维护的智能体 Harness 项目索引。 |
+| [ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) ![GitHub Repo stars](https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=social) | 精选开源列表 | ⭐️⭐️ | 工具、模式、评测、记忆、MCP、权限、可观测性与编排。 |
+| [walkinglabs / awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) ![GitHub Repo stars](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering?style=social) | 精选开源列表 | | Harness 工程工具与指南精选。 |
+
 ## 核心（Core）
 
 | 项目 | 分类 | 推荐 | 说明 |
@@ -57,6 +65,7 @@
 | [HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social) | 通用 CLI 智能体 | ⭐️⭐️ | HKUDS 框架：用智能体驱动任意 CLI。 |
 | [jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) ![GitHub Repo stars](https://img.shields.io/github/stars/jackwener/OpenCLI?style=social) | 开放 CLI 工具 | | 面向智能体的开放 CLI 工具集。 |
 | [searxng / searxng](https://github.com/searxng/searxng) ![GitHub Repo stars](https://img.shields.io/github/stars/searxng/searxng?style=social) | 元搜索引擎 | ⭐️⭐️ | 免费、注重隐私的元搜索引擎，聚合多个搜索服务的结果。 |
+| [affaan-m / ECC](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | 智能体 Harness 优化 | ⭐️⭐️⭐️ | 面向 Claude Code、Codex、Cursor 等的技能、直觉、记忆、安全与研究优先开发体系。 |
 
 ## 自进化（Self-Evolving）
 
@@ -66,7 +75,7 @@
 | [aiming-lab / AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social) | 自主研究循环 | ⭐️⭐️ | 集成 Claw 的自动研究智能体。 |
 | [uditgoenka / autoresearch](https://github.com/uditgoenka/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=social) | 自主研究循环 | | 社区版 autoresearch 变体。 |
 
-## SDD（规格驱动开发）
+## Spec
 
 | 项目 | 分类 | 推荐 | 说明 |
 | --- | --- | :---: | --- |
@@ -90,6 +99,7 @@
 | 项目 | 分类 | 推荐 | 说明 |
 | --- | --- | :---: | --- |
 | [garrytan / gbrain](https://github.com/garrytan/gbrain) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gbrain?style=social) | OpenClaw / Hermes 智能体大脑 | ⭐️⭐️ | Garry 个人定制的 OpenClaw/Hermes 智能体大脑配置。 |
+| [emcie-co / parlant](https://github.com/emcie-co/parlant) ![GitHub Repo stars](https://img.shields.io/github/stars/emcie-co/parlant?style=social) | 交互控制 Harness | ⭐️⭐️ | 面向客户的可靠 AI 智能体，提供可控、一致、可预测的 LLM 交互。 |
 
 
 

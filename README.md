@@ -6,6 +6,14 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 
 *Grouped by topic; star counts use [Shields.io](https://img.shields.io) `github/stars` badges (approximate for `k`/`m` suffixes).*
 
+## Awesome
+
+| Project | Category | Rec | Desc |
+| --- | --- | :---: | --- |
+| [AutoJunjie / awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) ![GitHub Repo stars](https://img.shields.io/github/stars/AutoJunjie/awesome-agent-harness?style=social) | Curated list | | Curated index of agent harness tools, runtimes, and patterns. |
+| [ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) ![GitHub Repo stars](https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=social) | Curated list | ⭐️⭐️ | Harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, orchestration. |
+| [walkinglabs / awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) ![GitHub Repo stars](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering?style=social) | Curated list | | Awesome tools and guides for harness engineering. |
+
 ## Core
 
 | Project | Category | Rec | Desc |
@@ -57,6 +65,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social) | Universal CLI agent | ⭐️⭐️ | HKUDS framework to drive arbitrary CLIs with agents. |
 | [jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) ![GitHub Repo stars](https://img.shields.io/github/stars/jackwener/OpenCLI?style=social) | Open CLI tooling | | Open CLI utilities for agents. |
 | [searxng / searxng](https://github.com/searxng/searxng) ![GitHub Repo stars](https://img.shields.io/github/stars/searxng/searxng?style=social) | Meta search engine | ⭐️⭐️ | Free privacy-respecting metasearch engine aggregating results from multiple search services. |
+| [affaan-m / ECC](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | Agent harness optimization | ⭐️⭐️ | Performance optimization: skills, instincts, memory, security for Claude Code, Codex, Cursor, and more. |
 
 ## Self-Evolving
 
@@ -66,7 +75,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [aiming-lab / AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social) | Autonomous research loop | ⭐️⭐️ | Claw-integrated auto-research agent. |
 | [uditgoenka / autoresearch](https://github.com/uditgoenka/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=social) | Autonomous research loop | | Community autoresearch variant. |
 
-## SDD (Spec-Driven Development)
+## Spec
 
 | Project | Category | Rec | Desc |
 | --- | --- | :---: | --- |
@@ -90,6 +99,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | Project | Category | Rec | Desc |
 | --- | --- | :---: | --- |
 | [garrytan / gbrain](https://github.com/garrytan/gbrain) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gbrain?style=social) | OpenClaw / Hermes agent brain | ⭐️⭐️ | Garry's opinionated OpenClaw/Hermes agent brain configuration. |
+| [emcie-co / parlant](https://github.com/emcie-co/parlant) ![GitHub Repo stars](https://img.shields.io/github/stars/emcie-co/parlant?style=social) | Interaction control harness | ⭐️⭐️ | Reliable customer-facing AI agents with controlled, consistent LLM interactions. |
 
 
 
