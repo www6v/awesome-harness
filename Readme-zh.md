@@ -6,6 +6,12 @@
 
 *按主题分组；Star 数使用 [Shields.io](https://img.shields.io) 的 `github/stars` 徽章展示（`k`/`m` 后缀为近似值）。*
 
+## 核心（Core）
+
+| 项目 | 分类 | 推荐 | 说明 |
+| --- | --- | :---: | --- |
+| [earendil-works / pi](https://github.com/earendil-works/pi) ![GitHub Repo stars](https://img.shields.io/github/stars/earendil-works/pi?style=social) | 智能体 Harness 单体仓库 | ⭐️⭐️⭐️ | Pi 智能体 Harness：编程智能体 CLI、统一 LLM API、智能体运行时与 TUI 库。 |
+
 ## Claw
 
 | 项目 | 分类 | 推荐 | 说明 |
@@ -42,6 +48,7 @@
 | [Tencent / TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory?style=social) | 智能体记忆 SDK | | 腾讯数据库驱动的智能体记忆。 |
 | [agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=social) | 智能体记忆 SDK | | AgentScope ReMe 记忆模块。 |
 | [langchain-ai / langmem](https://github.com/langchain-ai/langmem) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social) | 智能体记忆 SDK | ⭐️⭐️ | LangChain 智能体记忆工具库。 |
+| [gastownhall / beads](https://github.com/gastownhall/beads) ![GitHub Repo stars](https://img.shields.io/github/stars/gastownhall/beads?style=social) | 图谱 Issue 追踪 / 智能体记忆 | ⭐️⭐️⭐️ | 基于 Dolt 的分布式图谱 Issue 追踪器，为编程智能体提供持久结构化记忆。 |
 
 ## 工具 — CLI
 
@@ -49,6 +56,7 @@
 | --- | --- | :---: | --- |
 | [HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social) | 通用 CLI 智能体 | ⭐️⭐️ | HKUDS 框架：用智能体驱动任意 CLI。 |
 | [jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) ![GitHub Repo stars](https://img.shields.io/github/stars/jackwener/OpenCLI?style=social) | 开放 CLI 工具 | | 面向智能体的开放 CLI 工具集。 |
+| [searxng / searxng](https://github.com/searxng/searxng) ![GitHub Repo stars](https://img.shields.io/github/stars/searxng/searxng?style=social) | 元搜索引擎 | ⭐️⭐️ | 免费、注重隐私的元搜索引擎，聚合多个搜索服务的结果。 |
 
 ## 自进化（Self-Evolving）
 
@@ -76,6 +84,12 @@
 | [Enderfga / claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) ![GitHub Repo stars](https://img.shields.io/github/stars/Enderfga/claw-orchestrator?style=social) | 多智能体编排 | ⭐️⭐️ | Claw 风格多智能体编排器。 |
 | [1Panel-dev / ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) ![GitHub Repo stars](https://img.shields.io/github/stars/1Panel-dev/ClawSwarm?style=social) | 多智能体编排 | ⭐️⭐️ | 1Panel Claw 集群部署与管理。 |
 | [Leochens / feishu-bot-chat-plugin](https://github.com/Leochens/feishu-bot-chat-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/Leochens/feishu-bot-chat-plugin?style=social) | 飞书集成 | | 面向智能体中枢的飞书机器人聊天插件。 |
+
+## 其他（Other）
+
+| 项目 | 分类 | 推荐 | 说明 |
+| --- | --- | :---: | --- |
+| [garrytan / gbrain](https://github.com/garrytan/gbrain) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gbrain?style=social) | OpenClaw / Hermes 智能体大脑 | ⭐️⭐️ | Garry 个人定制的 OpenClaw/Hermes 智能体大脑配置。 |
 
 
 

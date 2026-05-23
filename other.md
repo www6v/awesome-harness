@@ -7,5 +7,8 @@ https://github.com/earendil-works/pi
 https://github.com/gastownhall/beads
 
 
+# tools
+https://github.com/searxng/searxng
+
 # other
 https://github.com/garrytan/gbrain

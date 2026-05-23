@@ -6,6 +6,12 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 
 *Grouped by topic; star counts use [Shields.io](https://img.shields.io) `github/stars` badges (approximate for `k`/`m` suffixes).*
 
+## Core
+
+| Project | Category | Rec | Desc |
+| --- | --- | :---: | --- |
+| [earendil-works / pi](https://github.com/earendil-works/pi) ![GitHub Repo stars](https://img.shields.io/github/stars/earendil-works/pi?style=social) | Agent harness toolkit | ⭐️⭐️⭐️ | Pi monorepo: coding agent CLI, agent runtime, unified LLM API, and TUI libs. |
+
 ## Claw
 
 | Project | Category | Rec | Desc |
@@ -42,13 +48,15 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [Tencent / TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory?style=social) | Agent memory SDK | | Tencent DB–backed agent memory. |
 | [agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=social) | Agent memory SDK | | AgentScope ReMe memory module. |
 | [langchain-ai / langmem](https://github.com/langchain-ai/langmem) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social) | Agent memory SDK | ⭐️⭐️ | LangChain memory utilities for agents. |
+| [gastownhall / beads](https://github.com/gastownhall/beads) ![GitHub Repo stars](https://img.shields.io/github/stars/gastownhall/beads?style=social) | Graph issue tracker / agent memory | ⭐️⭐️⭐️ | Dolt-powered distributed graph issue tracker and persistent structured memory for coding agents. |
 
-## Tool — CLI
+## Tool
 
 | Project | Category | Rec | Desc |
 | --- | --- | :---: | --- |
 | [HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social) | Universal CLI agent | ⭐️⭐️ | HKUDS framework to drive arbitrary CLIs with agents. |
 | [jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) ![GitHub Repo stars](https://img.shields.io/github/stars/jackwener/OpenCLI?style=social) | Open CLI tooling | | Open CLI utilities for agents. |
+| [searxng / searxng](https://github.com/searxng/searxng) ![GitHub Repo stars](https://img.shields.io/github/stars/searxng/searxng?style=social) | Meta search engine | ⭐️⭐️ | Free privacy-respecting metasearch engine aggregating results from multiple search services. |
 
 ## Self-Evolving
 
@@ -76,6 +84,12 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [Enderfga / claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) ![GitHub Repo stars](https://img.shields.io/github/stars/Enderfga/claw-orchestrator?style=social) | Multi-agent orchestration | ⭐️⭐️ | Orchestrator for claw-style multi-agent setups. |
 | [1Panel-dev / ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) ![GitHub Repo stars](https://img.shields.io/github/stars/1Panel-dev/ClawSwarm?style=social) | Multi-agent orchestration | ⭐️⭐️ | 1Panel claw swarm deployment and management. |
 | [Leochens / feishu-bot-chat-plugin](https://github.com/Leochens/feishu-bot-chat-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/Leochens/feishu-bot-chat-plugin?style=social) | Feishu / Lark integration | | Feishu bot chat plugin for agent hubs. |
+
+## Other
+
+| Project | Category | Rec | Desc |
+| --- | --- | :---: | --- |
+| [garrytan / gbrain](https://github.com/garrytan/gbrain) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gbrain?style=social) | OpenClaw / Hermes agent brain | ⭐️⭐️ | Garry's opinionated OpenClaw/Hermes agent brain configuration. |
 
 
 
