@@ -10,9 +10,9 @@
 
 | 项目 | 分类 | 推荐 | 说明 |
 | --- | --- | :---: | --- |
-| [AutoJunjie / awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) ![GitHub Repo stars](https://img.shields.io/github/stars/AutoJunjie/awesome-agent-harness?style=social) | 精选开源列表 | | 社区维护的智能体 Harness 项目索引。 |
-| [ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) ![GitHub Repo stars](https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=social) | 精选开源列表 | ⭐️⭐️ | 工具、模式、评测、记忆、MCP、权限、可观测性与编排。 |
 | [walkinglabs / awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) ![GitHub Repo stars](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering?style=social) | 精选开源列表 | | Harness 工程工具与指南精选。 |
+| [ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) ![GitHub Repo stars](https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=social) | 精选开源列表 | ⭐️⭐️ | 工具、模式、评测、记忆、MCP、权限、可观测性与编排。 |
+| [AutoJunjie / awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) ![GitHub Repo stars](https://img.shields.io/github/stars/AutoJunjie/awesome-agent-harness?style=social) | 精选开源列表 | | 社区维护的智能体 Harness 项目索引。 |
 
 ## 核心（Core）
 
@@ -20,8 +20,8 @@
 | --- | --- | :---: | --- |
 | [earendil-works / pi](https://github.com/earendil-works/pi) ![GitHub Repo stars](https://img.shields.io/github/stars/earendil-works/pi?style=social) | 智能体 Harness 单体仓库 | ⭐️⭐️⭐️ | Pi 智能体 Harness：编程智能体 CLI、统一 LLM API、智能体运行时与 TUI 库。 |
 | [qualisero / awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/qualisero/awesome-pi-agent?style=social) | 精选开源列表 | | Pi 编程智能体（pi-mono）的插件、Hooks、工具、技能与资源精选列表。 |
-| [openxjarvis / pi-mono-python](https://github.com/openxjarvis/pi-mono-python) ![GitHub Repo stars](https://img.shields.io/github/stars/openxjarvis/pi-mono-python?style=social) | 智能体 Harness 单体仓库 | | pi-mono 的 Python 移植：与原版对齐的编程智能体，含 TUI、ai、agent、coding-agent 包。 |
 | [jshachm / pi-rs](https://github.com/jshachm/pi-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/jshachm/pi-rs?style=social) | 智能体 Harness 单体仓库 | | 基于 pi-mono 的 Rust 轻量化版本。 |
+| [openxjarvis / pi-mono-python](https://github.com/openxjarvis/pi-mono-python) ![GitHub Repo stars](https://img.shields.io/github/stars/openxjarvis/pi-mono-python?style=social) | 智能体 Harness 单体仓库 | | pi-mono 的 Python 移植：与原版对齐的编程智能体，含 TUI、ai、agent、coding-agent 包。 |
 
 ## Claw
 
@@ -52,24 +52,24 @@
 | --- | --- | :---: | --- |
 | [mem0ai / mem0](https://github.com/mem0ai/mem0) ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social) | 智能体记忆 SDK | ⭐️⭐️⭐️ | AI 智能体通用记忆层。 |
 | [volcengine / OpenViking](https://github.com/volcengine/OpenViking) ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) | 智能体记忆 SDK | ⭐️⭐️ | 火山引擎开放智能体记忆技术栈。 |
+| [gastownhall / beads](https://github.com/gastownhall/beads) ![GitHub Repo stars](https://img.shields.io/github/stars/gastownhall/beads?style=social) | 图谱 Issue 追踪 / 智能体记忆 | ⭐️⭐️⭐️ | 基于 Dolt 的分布式图谱 Issue 追踪器，为编程智能体提供持久结构化记忆。 |
 | [letta-ai / letta](https://github.com/letta-ai/letta) ![GitHub Repo stars](https://img.shields.io/github/stars/letta-ai/letta?style=social) | 智能体记忆 SDK | ⭐️⭐️⭐️ | 带持久记忆的有状态智能体（MemGPT 一脉）。 |
 | [topoteretes / cognee](https://github.com/topoteretes/cognee) ![GitHub Repo stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social) | 知识 / 图谱记忆 | ⭐️⭐️ | 面向智能体与 RAG 的知识图谱记忆。 |
+| [NevaMind-AI / memU](https://github.com/NevaMind-AI/memU) ![GitHub Repo stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=social) | 智能体记忆 SDK | | 面向 OpenClaw 等 7×24 主动式智能体的记忆层。 |
 | [MemTensor / MemOS](https://github.com/MemTensor/MemOS) ![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social) | 智能体记忆操作系统 | ⭐️⭐️ | 面向 LLM 智能体的记忆操作系统。 |
 | [CortexReach / memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=social) | 向量 / LanceDB 记忆 | | 生产级 LanceDB 智能体记忆方案。 |
 | [Tencent / TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory?style=social) | 智能体记忆 SDK | | 腾讯数据库驱动的智能体记忆。 |
 | [agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=social) | 智能体记忆 SDK | | AgentScope ReMe 记忆模块。 |
 | [langchain-ai / langmem](https://github.com/langchain-ai/langmem) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social) | 智能体记忆 SDK | ⭐️⭐️ | LangChain 智能体记忆工具库。 |
-| [gastownhall / beads](https://github.com/gastownhall/beads) ![GitHub Repo stars](https://img.shields.io/github/stars/gastownhall/beads?style=social) | 图谱 Issue 追踪 / 智能体记忆 | ⭐️⭐️⭐️ | 基于 Dolt 的分布式图谱 Issue 追踪器，为编程智能体提供持久结构化记忆。 |
-| [NevaMind-AI / memU](https://github.com/NevaMind-AI/memU) ![GitHub Repo stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=social) | 智能体记忆 SDK | | 面向 OpenClaw 等 7×24 主动式智能体的记忆层。 |
 
 ## 工具
 
 | 项目 | 分类 | 推荐 | 说明 |
 | --- | --- | :---: | --- |
-| [HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social) | 通用 CLI 智能体 | ⭐️⭐️ | HKUDS 框架：用智能体驱动任意 CLI。 |
-| [jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) ![GitHub Repo stars](https://img.shields.io/github/stars/jackwener/OpenCLI?style=social) | 开放 CLI 工具 | | 面向智能体的开放 CLI 工具集。 |
-| [searxng / searxng](https://github.com/searxng/searxng) ![GitHub Repo stars](https://img.shields.io/github/stars/searxng/searxng?style=social) | 元搜索引擎 | ⭐️⭐️ | 免费、注重隐私的元搜索引擎，聚合多个搜索服务的结果。 |
 | [affaan-m / ECC](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | 智能体 Harness 优化 | ⭐️⭐️⭐️ | 面向 Claude Code、Codex、Cursor 等的技能、直觉、记忆、安全与研究优先开发体系。 |
+| [HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social) | 通用 CLI 智能体 | ⭐️⭐️ | HKUDS 框架：用智能体驱动任意 CLI。 |
+| [searxng / searxng](https://github.com/searxng/searxng) ![GitHub Repo stars](https://img.shields.io/github/stars/searxng/searxng?style=social) | 元搜索引擎 | ⭐️⭐️ | 免费、注重隐私的元搜索引擎，聚合多个搜索服务的结果。 |
+| [jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) ![GitHub Repo stars](https://img.shields.io/github/stars/jackwener/OpenCLI?style=social) | 开放 CLI 工具 | | 面向智能体的开放 CLI 工具集。 |
 | [strukto-ai / mirage](https://github.com/strukto-ai/mirage) ![GitHub Repo stars](https://img.shields.io/github/stars/strukto-ai/mirage?style=social) | 虚拟文件系统 | | 面向 AI 智能体的统一虚拟文件系统。 |
 
 ## 自进化（Self-Evolving）
@@ -87,9 +87,15 @@
 | [obra / superpowers](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | SDD 工作流与技能 | ⭐️⭐️⭐️ | 面向 Claude Code 的规格驱动技能与工作流。 |
 | [gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) ![GitHub Repo stars](https://img.shields.io/github/stars/gsd-build/get-shit-done?style=social) | SDD 工作流与技能 | ⭐️⭐️ | Get Shit Done —— 结构化智能体交付工作流。 |
 | [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) ![GitHub Repo stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=social) | Codex 增强 | | OpenAI Codex 工作流的 Oh-my 增强层。 |
-| [openai / symphony](https://github.com/openai/symphony) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/symphony?style=social) | 编排 | ⭐️⭐️ | OpenAI Symphony 多步智能体编排。 |
 | [coleam00 / Archon](https://github.com/coleam00/Archon) ![GitHub Repo stars](https://img.shields.io/github/stars/coleam00/Archon?style=social) | SDD / 智能体构建器 | ⭐️⭐️ | 编程智能体的构建器与知识库。 |
 | [snarktank / ralph](https://github.com/snarktank/ralph) ![GitHub Repo stars](https://img.shields.io/github/stars/snarktank/ralph?style=social) | SDD 循环智能体 | ⭐️⭐️ | Ralph —— 面向智能体的迭代规格/实现循环。 |
+
+## 编排（Orchestration）
+
+| 项目 | 分类 | 推荐 | 说明 |
+| --- | --- | :---: | --- |
+| [multica-ai / multica](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | 多智能体编排 | | 开源托管智能体平台：分配任务、跟踪进度、沉淀技能。 |
+| [openai / symphony](https://github.com/openai/symphony) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/symphony?style=social) | 编排 | ⭐️⭐️ | OpenAI Symphony 多步智能体编排。 |
 
 ## 智能体中枢（Agent Hub）
 
@@ -98,7 +104,6 @@
 | [Enderfga / claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) ![GitHub Repo stars](https://img.shields.io/github/stars/Enderfga/claw-orchestrator?style=social) | 多智能体编排 | ⭐️⭐️ | Claw 风格多智能体编排器。 |
 | [1Panel-dev / ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) ![GitHub Repo stars](https://img.shields.io/github/stars/1Panel-dev/ClawSwarm?style=social) | 多智能体编排 | ⭐️⭐️ | 1Panel Claw 集群部署与管理。 |
 | [Leochens / feishu-bot-chat-plugin](https://github.com/Leochens/feishu-bot-chat-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/Leochens/feishu-bot-chat-plugin?style=social) | 飞书集成 | | 面向智能体中枢的飞书机器人聊天插件。 |
-| [multica-ai / multica](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | 多智能体编排 | | 开源托管智能体平台：分配任务、跟踪进度、沉淀技能。 |
 
 ## 其他（Other）
 
