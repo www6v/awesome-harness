@@ -19,6 +19,9 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | Project | Category | Rec | Desc |
 | --- | --- | :---: | --- |
 | [earendil-works / pi](https://github.com/earendil-works/pi) ![GitHub Repo stars](https://img.shields.io/github/stars/earendil-works/pi?style=social) | Agent harness toolkit | ⭐️⭐️⭐️ | Pi monorepo: coding agent CLI, agent runtime, unified LLM API, and TUI libs. |
+| [qualisero / awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/qualisero/awesome-pi-agent?style=social) | Curated list | | Awesome list of add-ons, hooks, tools, skills, and resources for the pi coding agent (pi-mono). |
+| [openxjarvis / pi-mono-python](https://github.com/openxjarvis/pi-mono-python) ![GitHub Repo stars](https://img.shields.io/github/stars/openxjarvis/pi-mono-python?style=social) | Agent harness toolkit | | Python port of pi-mono: fully-aligned coding agent with TUI, ai, agent, and coding-agent packages. |
+| [jshachm / pi-rs](https://github.com/jshachm/pi-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/jshachm/pi-rs?style=social) | Agent harness toolkit | | Lightweight Rust port of pi-mono. |
 
 ## Claw
 
@@ -57,6 +60,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=social) | Agent memory SDK | | AgentScope ReMe memory module. |
 | [langchain-ai / langmem](https://github.com/langchain-ai/langmem) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social) | Agent memory SDK | ⭐️⭐️ | LangChain memory utilities for agents. |
 | [gastownhall / beads](https://github.com/gastownhall/beads) ![GitHub Repo stars](https://img.shields.io/github/stars/gastownhall/beads?style=social) | Graph issue tracker / agent memory | ⭐️⭐️⭐️ | Dolt-powered distributed graph issue tracker and persistent structured memory for coding agents. |
+| [NevaMind-AI / memU](https://github.com/NevaMind-AI/memU) ![GitHub Repo stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=social) | Agent memory SDK | | Memory for 24/7 proactive agents like OpenClaw. |
 
 ## Tool
 
@@ -66,6 +70,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) ![GitHub Repo stars](https://img.shields.io/github/stars/jackwener/OpenCLI?style=social) | Open CLI tooling | | Open CLI utilities for agents. |
 | [searxng / searxng](https://github.com/searxng/searxng) ![GitHub Repo stars](https://img.shields.io/github/stars/searxng/searxng?style=social) | Meta search engine | ⭐️⭐️ | Free privacy-respecting metasearch engine aggregating results from multiple search services. |
 | [affaan-m / ECC](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | Agent harness optimization | ⭐️⭐️ | Performance optimization: skills, instincts, memory, security for Claude Code, Codex, Cursor, and more. |
+| [strukto-ai / mirage](https://github.com/strukto-ai/mirage) ![GitHub Repo stars](https://img.shields.io/github/stars/strukto-ai/mirage?style=social) | Virtual filesystem | | Unified virtual filesystem for AI agents. |
 
 ## Self-Evolving
 
@@ -93,6 +98,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [Enderfga / claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) ![GitHub Repo stars](https://img.shields.io/github/stars/Enderfga/claw-orchestrator?style=social) | Multi-agent orchestration | ⭐️⭐️ | Orchestrator for claw-style multi-agent setups. |
 | [1Panel-dev / ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) ![GitHub Repo stars](https://img.shields.io/github/stars/1Panel-dev/ClawSwarm?style=social) | Multi-agent orchestration | ⭐️⭐️ | 1Panel claw swarm deployment and management. |
 | [Leochens / feishu-bot-chat-plugin](https://github.com/Leochens/feishu-bot-chat-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/Leochens/feishu-bot-chat-plugin?style=social) | Feishu / Lark integration | | Feishu bot chat plugin for agent hubs. |
+| [multica-ai / multica](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | Multi-agent orchestration | | Open-source managed agents platform: assign tasks, track progress, compound skills. |
 
 ## Other
 
