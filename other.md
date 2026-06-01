@@ -3,8 +3,7 @@
 
 
 
-## orchestration
-https://github.com/multica-ai/multica
+
 
 
 
