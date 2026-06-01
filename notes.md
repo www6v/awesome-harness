@@ -31,11 +31,11 @@ https://github.com/yikart/AiToEarn
 
 
 # AI ui
-https://github.com/Chainlit/chainlit
-https://github.com/Chainlit/cookbook
-https://github.com/ChatGPTNextWeb/NextChat
+https://github.com/Chainlit/chainlit  
+https://github.com/Chainlit/cookbook 
+https://github.com/ChatGPTNextWeb/NextChat  
 
-https://github.com/oobabooga/textgen
+https://github.com/oobabooga/textgen  
 
 # MLOps
-https://github.com/openlit/openlit
+https://github.com/openlit/openlit  
