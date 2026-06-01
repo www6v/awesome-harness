@@ -45,6 +45,9 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [oboard / claude-code-rev](https://github.com/oboard/claude-code-rev) ![GitHub Repo stars](https://img.shields.io/github/stars/oboard/claude-code-rev?style=social) | Claude Code study & reverse engineering | | Claude Code reverse-engineering / analysis. |
 | [chauncygu / collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code) ![GitHub Repo stars](https://img.shields.io/github/stars/chauncygu/collection-claude-code-source-code?style=social) | Claude Code study & reverse engineering | | Curated Claude Code source and references. |
 | [VILA-Lab / Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code) ![GitHub Repo stars](https://img.shields.io/github/stars/VILA-Lab/Dive-into-Claude-Code?style=social) | Claude Code study & reverse engineering | ⭐️⭐️ | Tutorial and deep dive into Claude Code. |
+| [ChinaSiro / claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) ![GitHub Repo stars](https://img.shields.io/github/stars/ChinaSiro/claude-code-sourcemap?style=social) | Claude Code study & reverse engineering | ⭐️⭐️ | Claude Code sourcemap analysis and reverse engineering. |
+| [claude-code-best / claude-code](https://github.com/claude-code-best/claude-code) ![GitHub Repo stars](https://img.shields.io/github/stars/claude-code-best/claude-code?style=social) | Claude Code study & reverse engineering | ⭐️⭐️⭐️ | Runnable, buildable, debuggable Claude Code with production-grade engineering. |
+| [luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) ![GitHub Repo stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=social) | Claude Code study & reverse engineering | ⭐️⭐️⭐️ | Visual, example-driven Claude Code guide from basics to advanced agents, with copy-paste templates. |
 
 ## Memory
 

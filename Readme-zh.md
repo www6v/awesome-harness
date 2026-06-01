@@ -45,6 +45,9 @@
 | [oboard / claude-code-rev](https://github.com/oboard/claude-code-rev) ![GitHub Repo stars](https://img.shields.io/github/stars/oboard/claude-code-rev?style=social) | Claude Code 研究与逆向 | | Claude Code 逆向工程与分析。 |
 | [chauncygu / collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code) ![GitHub Repo stars](https://img.shields.io/github/stars/chauncygu/collection-claude-code-source-code?style=social) | Claude Code 研究与逆向 | | 精选 Claude Code 源码与参考资料。 |
 | [VILA-Lab / Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code) ![GitHub Repo stars](https://img.shields.io/github/stars/VILA-Lab/Dive-into-Claude-Code?style=social) | Claude Code 研究与逆向 | ⭐️⭐️ | Claude Code 教程与深度解析。 |
+| [ChinaSiro / claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) ![GitHub Repo stars](https://img.shields.io/github/stars/ChinaSiro/claude-code-sourcemap?style=social) | Claude Code 研究与逆向 | ⭐️⭐️ | Claude Code Sourcemap 分析与逆向工程。 |
+| [claude-code-best / claude-code](https://github.com/claude-code-best/claude-code) ![GitHub Repo stars](https://img.shields.io/github/stars/claude-code-best/claude-code?style=social) | Claude Code 研究与逆向 | ⭐️⭐️⭐️ | 原汁原味、可运行、可构建、可调试的 Claude Code 工程化版本。 |
+| [luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) ![GitHub Repo stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=social) | Claude Code 研究与逆向 | ⭐️⭐️⭐️ | 可视化、示例驱动的 Claude Code 指南，从基础到高级智能体，含即用模板。 |
 
 ## 记忆（Memory）
 
