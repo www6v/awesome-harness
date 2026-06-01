@@ -32,12 +32,14 @@ https://github.com/yikart/AiToEarn
 
 # AI ui
 https://github.com/Chainlit/chainlit  
-https://github.com/Chainlit/cookbook 
+https://github.com/Chainlit/cookbook   
 https://github.com/ChatGPTNextWeb/NextChat  
 
 https://github.com/vercel/chatbot  
 
 https://github.com/oobabooga/textgen  
+
+https://github.com/langchain-ai/agent-chat-ui
 
 # MLOps
 https://github.com/openlit/openlit  
