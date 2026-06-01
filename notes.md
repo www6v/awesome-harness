@@ -37,7 +37,7 @@ https://github.com/Chainlit/cookbook
    
 https://github.com/ChatGPTNextWeb/NextChat   ts  
 
-https://github.com/vercel/chatbot   
+https://github.com/vercel/chatbot   ts 
 
 https://github.com/oobabooga/textgen   ts
 
