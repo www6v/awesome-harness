@@ -35,6 +35,8 @@ https://github.com/Chainlit/chainlit
 https://github.com/Chainlit/cookbook 
 https://github.com/ChatGPTNextWeb/NextChat  
 
+https://github.com/vercel/chatbot  
+
 https://github.com/oobabooga/textgen  
 
 # MLOps
