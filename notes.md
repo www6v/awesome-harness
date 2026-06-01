@@ -31,15 +31,15 @@ https://github.com/yikart/AiToEarn
 
 
 # AI ui
-https://github.com/Chainlit/chainlit  
+https://github.com/Chainlit/chainlit    python 
 https://github.com/Chainlit/cookbook   
-https://github.com/ChatGPTNextWeb/NextChat  
+https://github.com/ChatGPTNextWeb/NextChat   ts
 
-https://github.com/vercel/chatbot  
+https://github.com/vercel/chatbot   
 
-https://github.com/oobabooga/textgen  
+https://github.com/oobabooga/textgen   ts
 
-https://github.com/langchain-ai/agent-chat-ui
+https://github.com/langchain-ai/agent-chat-ui  langgraph专用
 
 # MLOps
 https://github.com/openlit/openlit  
