@@ -39,7 +39,7 @@ https://github.com/ChatGPTNextWeb/NextChat   ts
 
 https://github.com/vercel/chatbot   ts 
 
-https://github.com/oobabooga/textgen   ts
+https://github.com/oobabooga/textgen  -python -desktop app
 
 https://github.com/langchain-ai/agent-chat-ui  langgraph专用
 
