@@ -1,7 +1,7 @@
 # notebooklm
 https://github.com/ConardLi/garden-skills/tree/main/skills/web-video-presentation
 
-
+github.com/heygen-com/hyperframes/
 
 # claude
 claude for legal. 
