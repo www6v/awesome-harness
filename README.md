@@ -14,7 +14,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) ![GitHub Repo stars](https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=social) | Curated list | ⭐️⭐️ | Harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, orchestration. |
 | [AutoJunjie / awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) ![GitHub Repo stars](https://img.shields.io/github/stars/AutoJunjie/awesome-agent-harness?style=social) | Curated list | | Curated index of agent harness tools, runtimes, and patterns. |
 
-## Core
+## kernel
 
 | Project | Category | Rec | Desc |
 | --- | --- | :---: | --- |

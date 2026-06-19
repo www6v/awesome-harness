@@ -14,7 +14,7 @@
 | [ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) ![GitHub Repo stars](https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=social) | 精选开源列表 | ⭐️⭐️ | 工具、模式、评测、记忆、MCP、权限、可观测性与编排。 |
 | [AutoJunjie / awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) ![GitHub Repo stars](https://img.shields.io/github/stars/AutoJunjie/awesome-agent-harness?style=social) | 精选开源列表 | | 社区维护的智能体 Harness 项目索引。 |
 
-## 核心（Core）
+## 核心（kernel）
 
 | 项目 | 分类 | 推荐 | 说明 |
 | --- | --- | :---: | --- |
