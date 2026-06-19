@@ -64,6 +64,7 @@
 | [Tencent / TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory?style=social) | 智能体记忆 SDK | | 腾讯数据库驱动的智能体记忆。 |
 | [agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=social) | 智能体记忆 SDK | | AgentScope ReMe 记忆模块。 |
 | [langchain-ai / langmem](https://github.com/langchain-ai/langmem) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social) | 智能体记忆 SDK | ⭐️⭐️ | LangChain 智能体记忆工具库。 |
+| [vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) ![GitHub Repo stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social) | 智能体记忆 SDK | | Hindsight 智能体记忆层。 |
 
 ## 工具
 
@@ -82,6 +83,8 @@
 | [karpathy / autoresearch](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | 自主研究循环 | ⭐️⭐️⭐️ | 极简自进化研究智能体循环（Karpathy）。 |
 | [aiming-lab / AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social) | 自主研究循环 | ⭐️⭐️ | 集成 Claw 的自动研究智能体。 |
 | [uditgoenka / autoresearch](https://github.com/uditgoenka/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=social) | 自主研究循环 | | 社区版 autoresearch 变体。 |
+| [NousResearch / hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent-self-evolution?style=social) | 自进化智能体 | | Hermes 智能体自进化框架。 |
+| [microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/SkillOpt?style=social) | 自进化智能体 | | Microsoft 自进化智能体技能优化。 |
 
 ## Spec
 
@@ -99,6 +102,8 @@
 | --- | --- | :---: | --- |
 | [multica-ai / multica](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | 多智能体编排 | | 开源托管智能体平台：分配任务、跟踪进度、沉淀技能。 |
 | [openai / symphony](https://github.com/openai/symphony) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/symphony?style=social) | 编排 | ⭐️⭐️ | OpenAI Symphony 多步智能体编排。 |
+| [ruvnet / ruflo](https://github.com/ruvnet/ruflo) ![GitHub Repo stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=social) | 多智能体编排 | | Ruflo 多智能体编排框架。 |
+| [jwangkun / Pi-Multi-Agent](https://github.com/jwangkun/Pi-Multi-Agent) ![GitHub Repo stars](https://img.shields.io/github/stars/jwangkun/Pi-Multi-Agent?style=social) | 多智能体编排 | | 基于 Pi 的多智能体系统。 |
 
 ## 智能体中枢（Agent Hub）
 

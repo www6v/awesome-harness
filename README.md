@@ -64,6 +64,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [Tencent / TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory?style=social) | Agent memory SDK | | Tencent DB–backed agent memory. |
 | [agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=social) | Agent memory SDK | | AgentScope ReMe memory module. |
 | [langchain-ai / langmem](https://github.com/langchain-ai/langmem) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social) | Agent memory SDK | ⭐️⭐️ | LangChain memory utilities for agents. |
+| [vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) ![GitHub Repo stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social) | Agent memory SDK | | Hindsight memory layer for agents. |
 
 ## Tool
 
@@ -82,6 +83,8 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [karpathy / autoresearch](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | Autonomous research loop | ⭐️⭐️⭐️ | Minimal self-evolving research agent loop (Karpathy). |
 | [aiming-lab / AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social) | Autonomous research loop | ⭐️⭐️ | Claw-integrated auto-research agent. |
 | [uditgoenka / autoresearch](https://github.com/uditgoenka/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=social) | Autonomous research loop | | Community autoresearch variant. |
+| [NousResearch / hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent-self-evolution?style=social) | Self-evolving agent | | Hermes agent self-evolution framework. |
+| [microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/SkillOpt?style=social) | Self-evolving agent | | Microsoft skill optimization for self-evolving agents. |
 
 ## Spec
 
@@ -99,6 +102,8 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | --- | --- | :---: | --- |
 | [multica-ai / multica](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | Multi-agent orchestration | | Open-source managed agents platform: assign tasks, track progress, compound skills. |
 | [openai / symphony](https://github.com/openai/symphony) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/symphony?style=social) | Orchestration | ⭐️⭐️ | OpenAI Symphony multi-step agent orchestration. |
+| [ruvnet / ruflo](https://github.com/ruvnet/ruflo) ![GitHub Repo stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=social) | Multi-agent orchestration | | Ruflo multi-agent orchestration framework. |
+| [jwangkun / Pi-Multi-Agent](https://github.com/jwangkun/Pi-Multi-Agent) ![GitHub Repo stars](https://img.shields.io/github/stars/jwangkun/Pi-Multi-Agent?style=social) | Multi-agent orchestration | | Pi-based multi-agent system. |
 
 ## Agent Hub
 
