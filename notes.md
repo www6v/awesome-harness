@@ -1,7 +1,4 @@
-# notebooklm
-https://github.com/ConardLi/garden-skills/tree/main/skills/web-video-presentation
 
-https://github.com/heygen-com/hyperframes/
 
 # claude
 claude for legal. 
@@ -45,3 +42,8 @@ https://github.com/langchain-ai/agent-chat-ui  langgraph专用
 
 # MLOps
 https://github.com/openlit/openlit  
+
+
+# information
+https://github.com/mvanhorn/last30days-skill
+https://github.com/mvanhorn/last30days-skill
