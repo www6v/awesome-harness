@@ -94,7 +94,7 @@
 | [gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) ![GitHub Repo stars](https://img.shields.io/github/stars/gsd-build/get-shit-done?style=social) | SDD 工作流与技能 | ⭐️⭐️ | Get Shit Done —— 结构化智能体交付工作流。 |
 | [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) ![GitHub Repo stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=social) | Codex 增强 | | OpenAI Codex 工作流的 Oh-my 增强层。 |
 | [coleam00 / Archon](https://github.com/coleam00/Archon) ![GitHub Repo stars](https://img.shields.io/github/stars/coleam00/Archon?style=social) | SDD / 智能体构建器 | ⭐️⭐️ | 编程智能体的构建器与知识库。 |
-| [snarktank / ralph](https://github.com/snarktank/ralph) ![GitHub Repo stars](https://img.shields.io/github/stars/snarktank/ralph?style=social) | SDD 循环智能体 | ⭐️⭐️ | Ralph —— 面向智能体的迭代规格/实现循环。 |
+
 
 ## 编排（Orchestration）
 
@@ -104,6 +104,25 @@
 | [openai / symphony](https://github.com/openai/symphony) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/symphony?style=social) | 编排 | ⭐️⭐️ | OpenAI Symphony 多步智能体编排。 |
 | [ruvnet / ruflo](https://github.com/ruvnet/ruflo) ![GitHub Repo stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=social) | 多智能体编排 | | Ruflo 多智能体编排框架。 |
 | [jwangkun / Pi-Multi-Agent](https://github.com/jwangkun/Pi-Multi-Agent) ![GitHub Repo stars](https://img.shields.io/github/stars/jwangkun/Pi-Multi-Agent?style=social) | 多智能体编排 | | 基于 Pi 的多智能体系统。 |
+
+### teams
+
+| 项目 | 分类 | 推荐 | 说明 |
+| --- | --- | :---: | --- |
+| [baphuongna / pi-crew](https://github.com/baphuongna/pi-crew) ![GitHub Repo stars](https://img.shields.io/github/stars/baphuongna/pi-crew?style=social) | 多智能体团队 | | Pi crew 多智能体系统。 |
+
+### long-term
+
+| 项目 | 分类 | 推荐 | 说明 |
+| --- | --- | :---: | --- |
+| [snarktank / ralph](https://github.com/snarktank/ralph) ![GitHub Repo stars](https://img.shields.io/github/stars/snarktank/ralph?style=social) | SDD 循环智能体 | ⭐️⭐️ | Ralph —— 面向智能体的迭代规格/实现循环。 |
+| [a5c-ai / babysitter](https://github.com/a5c-ai/babysitter) ![GitHub Repo stars](https://img.shields.io/github/stars/a5c-ai/babysitter?style=social) | 长期智能体 | | 面向长期运行智能体的 Babysitter。 |
+
+### dynamic workflows
+
+| 项目 | 分类 | 推荐 | 说明 |
+| --- | --- | :---: | --- |
+| [QuintinShaw / pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows) ![GitHub Repo stars](https://img.shields.io/github/stars/QuintinShaw/pi-dynamic-workflows?style=social) | 动态工作流 | | Pi 动态工作流系统。 |
 
 ## 智能体中枢（Agent Hub）
 

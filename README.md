@@ -94,7 +94,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) ![GitHub Repo stars](https://img.shields.io/github/stars/gsd-build/get-shit-done?style=social) | SDD workflow & skills | ⭐️⭐️ | Get Shit Done — structured agentic delivery workflow. |
 | [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) ![GitHub Repo stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=social) | Codex enhancements | | Oh-my layer for OpenAI Codex workflows. |
 | [coleam00 / Archon](https://github.com/coleam00/Archon) ![GitHub Repo stars](https://img.shields.io/github/stars/coleam00/Archon?style=social) | SDD / agent builder | ⭐️⭐️ | Agent builder and knowledge base for coding agents. |
-| [snarktank / ralph](https://github.com/snarktank/ralph) ![GitHub Repo stars](https://img.shields.io/github/stars/snarktank/ralph?style=social) | SDD loop agent | ⭐️⭐️ | Ralph — iterative spec/implementation loop for agents. |
+
 
 ## Orchestration
 
@@ -104,6 +104,24 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [openai / symphony](https://github.com/openai/symphony) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/symphony?style=social) | Orchestration | ⭐️⭐️ | OpenAI Symphony multi-step agent orchestration. |
 | [ruvnet / ruflo](https://github.com/ruvnet/ruflo) ![GitHub Repo stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=social) | Multi-agent orchestration | | Ruflo multi-agent orchestration framework. |
 | [jwangkun / Pi-Multi-Agent](https://github.com/jwangkun/Pi-Multi-Agent) ![GitHub Repo stars](https://img.shields.io/github/stars/jwangkun/Pi-Multi-Agent?style=social) | Multi-agent orchestration | | Pi-based multi-agent system. |
+
+### teams
+
+| Project | Category | Rec | Desc |
+| --- | --- | :---: | --- |
+| [baphuongna / pi-crew](https://github.com/baphuongna/pi-crew) ![GitHub Repo stars](https://img.shields.io/github/stars/baphuongna/pi-crew?style=social) | Multi-agent teams | | Pi crew multi-agent system. |
+
+### long-term
+| Project | Category | Rec | Desc |
+| --- | --- | :---: | --- |
+| [snarktank / ralph](https://github.com/snarktank/ralph) ![GitHub Repo stars](https://img.shields.io/github/stars/snarktank/ralph?style=social) | SDD loop agent | ⭐️⭐️ | Ralph — iterative spec/implementation loop for agents. |
+| [a5c-ai / babysitter](https://github.com/a5c-ai/babysitter) ![GitHub Repo stars](https://img.shields.io/github/stars/a5c-ai/babysitter?style=social) | Long-term agent | | Babysitter for long-running agents. |
+
+### dynamic workflows
+
+| Project | Category | Rec | Desc |
+| --- | --- | :---: | --- |
+| [QuintinShaw / pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows) ![GitHub Repo stars](https://img.shields.io/github/stars/QuintinShaw/pi-dynamic-workflows?style=social) | Dynamic workflows | | Pi dynamic workflows system. |
 
 ## Agent Hub
 
