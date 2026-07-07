@@ -21,7 +21,8 @@ https://github.com/Panniantong/Agent-Reach
 
 
 
-
+# spec
+https://github.com/addyosmani/agent-skills
 
 
 
