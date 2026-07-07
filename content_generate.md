@@ -12,3 +12,6 @@ https://github.com/antvis/infographic
 
 
 https://clawhub.ai/54lynnn/bilibili-auto-transcript
+
+
+https://github.com/nexu-io/open-design
