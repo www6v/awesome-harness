@@ -48,6 +48,7 @@
 | [ChinaSiro / claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) ![GitHub Repo stars](https://img.shields.io/github/stars/ChinaSiro/claude-code-sourcemap?style=social) | Claude Code 研究与逆向 | ⭐️⭐️ | Claude Code Sourcemap 分析与逆向工程。 |
 | [claude-code-best / claude-code](https://github.com/claude-code-best/claude-code) ![GitHub Repo stars](https://img.shields.io/github/stars/claude-code-best/claude-code?style=social) | Claude Code 研究与逆向 | ⭐️⭐️⭐️ | 原汁原味、可运行、可构建、可调试的 Claude Code 工程化版本。 |
 | [luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) ![GitHub Repo stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=social) | Claude Code 研究与逆向 | ⭐️⭐️⭐️ | 可视化、示例驱动的 Claude Code 指南，从基础到高级智能体，含即用模板。 |
+| [Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach) ![GitHub Repo stars](https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=social) | 智能体全网抓取 CLI | ⭐️⭐️⭐️ | 一条 CLI 零 API 费，让智能体读取与搜索 Twitter、Reddit、YouTube、GitHub、B 站、小红书等全网内容。 |
 
 ## 记忆（Memory）
 
@@ -65,6 +66,7 @@
 | [agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=social) | 智能体记忆 SDK | | AgentScope ReMe 记忆模块。 |
 | [langchain-ai / langmem](https://github.com/langchain-ai/langmem) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social) | 智能体记忆 SDK | ⭐️⭐️ | LangChain 智能体记忆工具库。 |
 | [vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) ![GitHub Repo stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social) | 智能体记忆 SDK | | Hindsight 智能体记忆层。 |
+| [plastic-labs / honcho](https://github.com/plastic-labs/honcho) ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/honcho?style=social) | 智能体记忆 SDK | ⭐️⭐️ | 面向有状态智能体的记忆库。 |
 
 ## 工具
 
@@ -94,6 +96,7 @@
 | [gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) ![GitHub Repo stars](https://img.shields.io/github/stars/gsd-build/get-shit-done?style=social) | SDD 工作流与技能 | ⭐️⭐️ | Get Shit Done —— 结构化智能体交付工作流。 |
 | [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) ![GitHub Repo stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=social) | Codex 增强 | | OpenAI Codex 工作流的 Oh-my 增强层。 |
 | [coleam00 / Archon](https://github.com/coleam00/Archon) ![GitHub Repo stars](https://img.shields.io/github/stars/coleam00/Archon?style=social) | SDD / 智能体构建器 | ⭐️⭐️ | 编程智能体的构建器与知识库。 |
+| [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social) | SDD 工作流与技能 | ⭐️⭐️⭐️ | 面向 AI 编程智能体的生产级工程技能集。 |
 
 
 ## 编排（Orchestration）

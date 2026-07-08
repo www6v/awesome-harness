@@ -48,6 +48,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [ChinaSiro / claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) ![GitHub Repo stars](https://img.shields.io/github/stars/ChinaSiro/claude-code-sourcemap?style=social) | Claude Code study & reverse engineering | ⭐️⭐️ | Claude Code sourcemap analysis and reverse engineering. |
 | [claude-code-best / claude-code](https://github.com/claude-code-best/claude-code) ![GitHub Repo stars](https://img.shields.io/github/stars/claude-code-best/claude-code?style=social) | Claude Code study & reverse engineering | ⭐️⭐️⭐️ | Runnable, buildable, debuggable Claude Code with production-grade engineering. |
 | [luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) ![GitHub Repo stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=social) | Claude Code study & reverse engineering | ⭐️⭐️⭐️ | Visual, example-driven Claude Code guide from basics to advanced agents, with copy-paste templates. |
+| [Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach) ![GitHub Repo stars](https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=social) | Agent web reach CLI | ⭐️⭐️⭐️ | One CLI for agents to read and search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu, and more — zero API fees. |
 
 ## Memory
 
@@ -65,6 +66,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=social) | Agent memory SDK | | AgentScope ReMe memory module. |
 | [langchain-ai / langmem](https://github.com/langchain-ai/langmem) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social) | Agent memory SDK | ⭐️⭐️ | LangChain memory utilities for agents. |
 | [vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) ![GitHub Repo stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social) | Agent memory SDK | | Hindsight memory layer for agents. |
+| [plastic-labs / honcho](https://github.com/plastic-labs/honcho) ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/honcho?style=social) | Agent memory SDK | ⭐️⭐️ | Memory library for building stateful agents. |
 
 ## Tool
 
@@ -94,6 +96,7 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) ![GitHub Repo stars](https://img.shields.io/github/stars/gsd-build/get-shit-done?style=social) | SDD workflow & skills | ⭐️⭐️ | Get Shit Done — structured agentic delivery workflow. |
 | [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) ![GitHub Repo stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=social) | Codex enhancements | | Oh-my layer for OpenAI Codex workflows. |
 | [coleam00 / Archon](https://github.com/coleam00/Archon) ![GitHub Repo stars](https://img.shields.io/github/stars/coleam00/Archon?style=social) | SDD / agent builder | ⭐️⭐️ | Agent builder and knowledge base for coding agents. |
+| [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social) | SDD workflow & skills | ⭐️⭐️⭐️ | Production-grade engineering skills for AI coding agents. |
 
 
 ## Orchestration
