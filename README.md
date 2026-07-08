@@ -41,32 +41,32 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [ultraworkers / claw-code](https://github.com/ultraworkers/claw-code) ![GitHub Repo stars](https://img.shields.io/github/stars/ultraworkers/claw-code?style=social) | Claw × coding CLI | | Claw-oriented coding agent CLI. |
 | [openai / codex](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social) | Official / vendor coding CLI | ⭐️⭐️⭐️ | OpenAI Codex CLI for agentic coding in the terminal. |
 | [shareAI-lab / learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) ![GitHub Repo stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=social) | Claude Code study & reverse engineering | ⭐️⭐️⭐️ | Hands-on course for building Claude Code–style agents. |
+| [Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach) ![GitHub Repo stars](https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=social) | Agent web reach CLI | ⭐️⭐️⭐️ | One CLI for agents to read and search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu, and more — zero API fees. |
+| [luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) ![GitHub Repo stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=social) | Claude Code study & reverse engineering | ⭐️⭐️⭐️ | Visual, example-driven Claude Code guide from basics to advanced agents, with copy-paste templates. |
+| [claude-code-best / claude-code](https://github.com/claude-code-best/claude-code) ![GitHub Repo stars](https://img.shields.io/github/stars/claude-code-best/claude-code?style=social) | Claude Code study & reverse engineering | ⭐️⭐️⭐️ | Runnable, buildable, debuggable Claude Code with production-grade engineering. |
 | [HKUDS / OpenHarness](https://github.com/HKUDS/OpenHarness) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/OpenHarness?style=social) | Harness framework | ⭐️⭐️⭐️ | HKUDS open harness for coding agents and evaluation. |
+| [ChinaSiro / claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) ![GitHub Repo stars](https://img.shields.io/github/stars/ChinaSiro/claude-code-sourcemap?style=social) | Claude Code study & reverse engineering | ⭐️⭐️ | Claude Code sourcemap analysis and reverse engineering. |
 | [oboard / claude-code-rev](https://github.com/oboard/claude-code-rev) ![GitHub Repo stars](https://img.shields.io/github/stars/oboard/claude-code-rev?style=social) | Claude Code study & reverse engineering | | Claude Code reverse-engineering / analysis. |
 | [chauncygu / collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code) ![GitHub Repo stars](https://img.shields.io/github/stars/chauncygu/collection-claude-code-source-code?style=social) | Claude Code study & reverse engineering | | Curated Claude Code source and references. |
 | [VILA-Lab / Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code) ![GitHub Repo stars](https://img.shields.io/github/stars/VILA-Lab/Dive-into-Claude-Code?style=social) | Claude Code study & reverse engineering | ⭐️⭐️ | Tutorial and deep dive into Claude Code. |
-| [ChinaSiro / claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) ![GitHub Repo stars](https://img.shields.io/github/stars/ChinaSiro/claude-code-sourcemap?style=social) | Claude Code study & reverse engineering | ⭐️⭐️ | Claude Code sourcemap analysis and reverse engineering. |
-| [claude-code-best / claude-code](https://github.com/claude-code-best/claude-code) ![GitHub Repo stars](https://img.shields.io/github/stars/claude-code-best/claude-code?style=social) | Claude Code study & reverse engineering | ⭐️⭐️⭐️ | Runnable, buildable, debuggable Claude Code with production-grade engineering. |
-| [luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) ![GitHub Repo stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=social) | Claude Code study & reverse engineering | ⭐️⭐️⭐️ | Visual, example-driven Claude Code guide from basics to advanced agents, with copy-paste templates. |
-| [Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach) ![GitHub Repo stars](https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=social) | Agent web reach CLI | ⭐️⭐️⭐️ | One CLI for agents to read and search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu, and more — zero API fees. |
 
 ## Memory
 
 | Project | Category | Rec | Desc |
 | --- | --- | :---: | --- |
 | [mem0ai / mem0](https://github.com/mem0ai/mem0) ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social) | Agent memory SDK | ⭐️⭐️⭐️ | Universal memory layer for AI agents. |
+| [topoteretes / cognee](https://github.com/topoteretes/cognee) ![GitHub Repo stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social) | Knowledge / graph memory | ⭐️⭐️ | Knowledge-graph memory for agents and RAG. |
 | [volcengine / OpenViking](https://github.com/volcengine/OpenViking) ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) | Agent memory SDK | ⭐️⭐️ | Volcengine open agent memory stack. |
 | [gastownhall / beads](https://github.com/gastownhall/beads) ![GitHub Repo stars](https://img.shields.io/github/stars/gastownhall/beads?style=social) | Graph issue tracker / agent memory | ⭐️⭐️⭐️ | Dolt-powered distributed graph issue tracker and persistent structured memory for coding agents. |
 | [letta-ai / letta](https://github.com/letta-ai/letta) ![GitHub Repo stars](https://img.shields.io/github/stars/letta-ai/letta?style=social) | Agent memory SDK | ⭐️⭐️⭐️ | Stateful agents with persistent memory (MemGPT lineage). |
-| [topoteretes / cognee](https://github.com/topoteretes/cognee) ![GitHub Repo stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social) | Knowledge / graph memory | ⭐️⭐️ | Knowledge-graph memory for agents and RAG. |
+| [vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) ![GitHub Repo stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social) | Agent memory SDK | | Hindsight memory layer for agents. |
 | [NevaMind-AI / memU](https://github.com/NevaMind-AI/memU) ![GitHub Repo stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=social) | Agent memory SDK | | Memory for 24/7 proactive agents like OpenClaw. |
 | [MemTensor / MemOS](https://github.com/MemTensor/MemOS) ![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social) | Agent memory OS | ⭐️⭐️ | Memory operating system for LLM agents. |
-| [CortexReach / memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=social) | Vector / LanceDB memory | | Production-oriented LanceDB agent memory. |
 | [Tencent / TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory?style=social) | Agent memory SDK | | Tencent DB–backed agent memory. |
+| [plastic-labs / honcho](https://github.com/plastic-labs/honcho) ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/honcho?style=social) | Agent memory SDK | ⭐️⭐️ | Memory library for building stateful agents. |
+| [CortexReach / memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=social) | Vector / LanceDB memory | | Production-oriented LanceDB agent memory. |
 | [agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=social) | Agent memory SDK | | AgentScope ReMe memory module. |
 | [langchain-ai / langmem](https://github.com/langchain-ai/langmem) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social) | Agent memory SDK | ⭐️⭐️ | LangChain memory utilities for agents. |
-| [vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) ![GitHub Repo stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social) | Agent memory SDK | | Hindsight memory layer for agents. |
-| [plastic-labs / honcho](https://github.com/plastic-labs/honcho) ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/honcho?style=social) | Agent memory SDK | ⭐️⭐️ | Memory library for building stateful agents. |
 
 ## Tool
 
@@ -84,28 +84,28 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | --- | --- | :---: | --- |
 | [karpathy / autoresearch](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | Autonomous research loop | ⭐️⭐️⭐️ | Minimal self-evolving research agent loop (Karpathy). |
 | [aiming-lab / AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social) | Autonomous research loop | ⭐️⭐️ | Claw-integrated auto-research agent. |
+| [microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/SkillOpt?style=social) | Self-evolving agent | | Microsoft skill optimization for self-evolving agents. |
 | [uditgoenka / autoresearch](https://github.com/uditgoenka/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=social) | Autonomous research loop | | Community autoresearch variant. |
 | [NousResearch / hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent-self-evolution?style=social) | Self-evolving agent | | Hermes agent self-evolution framework. |
-| [microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/SkillOpt?style=social) | Self-evolving agent | | Microsoft skill optimization for self-evolving agents. |
 
 ## Spec
 
 | Project | Category | Rec | Desc |
 | --- | --- | :---: | --- |
 | [obra / superpowers](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | SDD workflow & skills | ⭐️⭐️⭐️ | Spec-driven skills and workflows for Claude Code. |
+| [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social) | SDD workflow & skills | ⭐️⭐️⭐️ | Production-grade engineering skills for AI coding agents. |
 | [gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) ![GitHub Repo stars](https://img.shields.io/github/stars/gsd-build/get-shit-done?style=social) | SDD workflow & skills | ⭐️⭐️ | Get Shit Done — structured agentic delivery workflow. |
 | [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) ![GitHub Repo stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=social) | Codex enhancements | | Oh-my layer for OpenAI Codex workflows. |
 | [coleam00 / Archon](https://github.com/coleam00/Archon) ![GitHub Repo stars](https://img.shields.io/github/stars/coleam00/Archon?style=social) | SDD / agent builder | ⭐️⭐️ | Agent builder and knowledge base for coding agents. |
-| [addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social) | SDD workflow & skills | ⭐️⭐️⭐️ | Production-grade engineering skills for AI coding agents. |
 
 
 ## Orchestration
 
 | Project | Category | Rec | Desc |
 | --- | --- | :---: | --- |
+| [ruvnet / ruflo](https://github.com/ruvnet/ruflo) ![GitHub Repo stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=social) | Multi-agent orchestration | | Ruflo multi-agent orchestration framework. |
 | [multica-ai / multica](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | Multi-agent orchestration | | Open-source managed agents platform: assign tasks, track progress, compound skills. |
 | [openai / symphony](https://github.com/openai/symphony) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/symphony?style=social) | Orchestration | ⭐️⭐️ | OpenAI Symphony multi-step agent orchestration. |
-| [ruvnet / ruflo](https://github.com/ruvnet/ruflo) ![GitHub Repo stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=social) | Multi-agent orchestration | | Ruflo multi-agent orchestration framework. |
 | [jwangkun / Pi-Multi-Agent](https://github.com/jwangkun/Pi-Multi-Agent) ![GitHub Repo stars](https://img.shields.io/github/stars/jwangkun/Pi-Multi-Agent?style=social) | Multi-agent orchestration | | Pi-based multi-agent system. |
 
 ### teams
