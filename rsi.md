@@ -50,6 +50,19 @@
 | [Qwen-Applications / Trace2Skill](https://github.com/Qwen-Applications/Trace2Skill) ![GitHub Repo stars](https://img.shields.io/github/stars/Qwen-Applications/Trace2Skill?style=social) | Self-evolving agent | | Trace-to-skill extraction for agent self-improvement. |
 
 
+
+### xxx
+
+https://github.com/ANative-Lab/EvoAgentX
+
+https://github.com/EverMind-AI/Raven
+
+https://github.com/Human-Agent-Society/reef
+
+https://github.com/Memento-Teams/Memento-Skills
+
+
+
 ### 文章
 
 - [Lilian Weng — Harness Engineering (2026-07-04)](https://lilianweng.github.io/posts/2026-07-04-harness/)
