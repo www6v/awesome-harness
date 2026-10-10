@@ -78,6 +78,21 @@
 | [jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) ![GitHub Repo stars](https://img.shields.io/github/stars/jackwener/OpenCLI?style=social) | 开放 CLI 工具 | | 面向智能体的开放 CLI 工具集。 |
 | [strukto-ai / mirage](https://github.com/strukto-ai/mirage) ![GitHub Repo stars](https://img.shields.io/github/stars/strukto-ai/mirage?style=social) | 虚拟文件系统 | | 面向 AI 智能体的统一虚拟文件系统。 |
 
+## 集成（Integrate）
+
+| 项目 | 分类 | 推荐 | 说明 |
+| --- | --- | :---: | --- |
+| [ComposioHQ / composio](https://github.com/ComposioHQ/composio) ![GitHub Repo stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social) | 工具集成平台 | | 提供 1000+ 工具包、工具搜索、鉴权与沙箱工作台，帮助智能体将意图落地为行动。 |
+| [oomol-lab / open-connector](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | 鉴权网关 / SaaS 连接器 | | 开源鉴权网关，通过 SDK、CLI、MCP、HTTP、OpenAPI 将 1000+ SaaS 接入智能体。 |
+
+## 沙箱（Sandbox）
+
+| 项目 | 分类 | 推荐 | 说明 |
+| --- | --- | :---: | --- |
+| [opensandbox-group / OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) ![GitHub Repo stars](https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=social) | 智能体沙箱运行时 | ⭐️⭐️⭐️ | 面向 AI 智能体的安全、快速、可扩展沙箱运行时。 |
+| [boxlite-ai / boxlite](https://github.com/boxlite-ai/boxlite) ![GitHub Repo stars](https://img.shields.io/github/stars/boxlite-ai/boxlite?style=social) | 微虚拟机沙箱 | ⭐️⭐️ | 面向 AI 智能体的微 VM —— 轻量可嵌入笔记本，弹性可支撑智能体云。 |
+| [microsoft / litebox](https://github.com/microsoft/litebox) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/litebox?style=social) | Library OS 沙箱 | ⭐️⭐️ | 聚焦安全的 Library OS，支持内核态与用户态执行。 |
+
 ## 自进化（Self-Evolving）
 
 | 项目 | 分类 | 推荐 | 说明 |

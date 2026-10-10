@@ -78,6 +78,21 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) ![GitHub Repo stars](https://img.shields.io/github/stars/jackwener/OpenCLI?style=social) | Open CLI tooling | | Open CLI utilities for agents. |
 | [strukto-ai / mirage](https://github.com/strukto-ai/mirage) ![GitHub Repo stars](https://img.shields.io/github/stars/strukto-ai/mirage?style=social) | Virtual filesystem | | Unified virtual filesystem for AI agents. |
 
+## Integrate
+
+| Project | Category | Rec | Desc |
+| --- | --- | :---: | --- |
+| [ComposioHQ / composio](https://github.com/ComposioHQ/composio) ![GitHub Repo stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social) | Tool integration platform | | 1000+ toolkits, tool search, auth, and sandboxed workbench for agents that turn intent into action. |
+| [oomol-lab / open-connector](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | Auth gateway / SaaS connector | | Open-source auth gateway connecting 1000+ SaaS providers to agents via SDK, CLI, MCP, HTTP, and OpenAPI. |
+
+## Sandbox
+
+| Project | Category | Rec | Desc |
+| --- | --- | :---: | --- |
+| [opensandbox-group / OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) ![GitHub Repo stars](https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=social) | Agent sandbox runtime | ⭐️⭐️⭐️ | Secure, fast, and extensible sandbox runtime for AI agents. |
+| [boxlite-ai / boxlite](https://github.com/boxlite-ai/boxlite) ![GitHub Repo stars](https://img.shields.io/github/stars/boxlite-ai/boxlite?style=social) | Micro-VM sandbox | ⭐️⭐️ | Micro-VM for AI agents — light enough for laptops, elastic enough for agentic cloud. |
+| [microsoft / litebox](https://github.com/microsoft/litebox) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/litebox?style=social) | Library OS sandbox | ⭐️⭐️ | Security-focused library OS supporting kernel- and user-mode execution. |
+
 ## Self-Evolving
 
 | Project | Category | Rec | Desc |
