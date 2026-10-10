@@ -93,16 +93,6 @@ Curated open-source index for **agent harness** — claw runtimes, coding CLIs, 
 | [boxlite-ai / boxlite](https://github.com/boxlite-ai/boxlite) ![GitHub Repo stars](https://img.shields.io/github/stars/boxlite-ai/boxlite?style=social) | Micro-VM sandbox | ⭐️⭐️ | Micro-VM for AI agents — light enough for laptops, elastic enough for agentic cloud. |
 | [microsoft / litebox](https://github.com/microsoft/litebox) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/litebox?style=social) | Library OS sandbox | ⭐️⭐️ | Security-focused library OS supporting kernel- and user-mode execution. |
 
-## Self-Evolving
-
-| Project | Category | Rec | Desc |
-| --- | --- | :---: | --- |
-| [karpathy / autoresearch](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | Autonomous research loop | ⭐️⭐️⭐️ | Minimal self-evolving research agent loop (Karpathy). |
-| [aiming-lab / AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social) | Autonomous research loop | ⭐️⭐️ | Claw-integrated auto-research agent. |
-| [microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/SkillOpt?style=social) | Self-evolving agent | | Microsoft skill optimization for self-evolving agents. |
-| [uditgoenka / autoresearch](https://github.com/uditgoenka/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=social) | Autonomous research loop | | Community autoresearch variant. |
-| [NousResearch / hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent-self-evolution?style=social) | Self-evolving agent | | Hermes agent self-evolution framework. |
-
 ## Spec
 
 | Project | Category | Rec | Desc |

@@ -93,16 +93,6 @@
 | [boxlite-ai / boxlite](https://github.com/boxlite-ai/boxlite) ![GitHub Repo stars](https://img.shields.io/github/stars/boxlite-ai/boxlite?style=social) | 微虚拟机沙箱 | ⭐️⭐️ | 面向 AI 智能体的微 VM —— 轻量可嵌入笔记本，弹性可支撑智能体云。 |
 | [microsoft / litebox](https://github.com/microsoft/litebox) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/litebox?style=social) | Library OS 沙箱 | ⭐️⭐️ | 聚焦安全的 Library OS，支持内核态与用户态执行。 |
 
-## 自进化（Self-Evolving）
-
-| 项目 | 分类 | 推荐 | 说明 |
-| --- | --- | :---: | --- |
-| [karpathy / autoresearch](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | 自主研究循环 | ⭐️⭐️⭐️ | 极简自进化研究智能体循环（Karpathy）。 |
-| [aiming-lab / AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social) | 自主研究循环 | ⭐️⭐️ | 集成 Claw 的自动研究智能体。 |
-| [microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/SkillOpt?style=social) | 自进化智能体 | | Microsoft 自进化智能体技能优化。 |
-| [uditgoenka / autoresearch](https://github.com/uditgoenka/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=social) | 自主研究循环 | | 社区版 autoresearch 变体。 |
-| [NousResearch / hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent-self-evolution?style=social) | 自进化智能体 | | Hermes 智能体自进化框架。 |
-
 ## Spec
 
 | 项目 | 分类 | 推荐 | 说明 |
