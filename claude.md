@@ -1,9 +1,14 @@
 
 # claude
+### skill
+
 claude for legal. 
 claude for financial   
 
+
+
 ### plugin
+
 https://github.com/anthropics/claude-plugins-official/tree/main/plugins  
 https://github.com/anthropics/claude-plugins-official/tree/main/plugins/code-simplifier.  
 https://github.com/anthropics/claude-plugins-official/tree/main/plugins/frontend-design.  
