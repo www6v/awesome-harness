@@ -2,6 +2,12 @@
 
 # infer
 
+
+
+https://github.com/xlite-dev/Awesome-LLM-Inference
+
+
+
 https://github.com/llm-d/llm-d
 
 https://github.com/vllm-project/production-stack
