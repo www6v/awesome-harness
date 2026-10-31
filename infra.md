@@ -8,17 +8,9 @@ https://github.com/xlite-dev/Awesome-LLM-Inference
 
 
 
-https://github.com/llm-d/llm-d
 
-https://github.com/vllm-project/production-stack
 
-https://github.com/LMCache/LMCache
 
-https://github.com/ai-dynamo/dynamo
-
-https://github.com/kserve/kserve
-
-https://github.com/Niko1221/Strata
 
 
 
