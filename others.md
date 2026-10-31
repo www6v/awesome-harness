@@ -31,3 +31,8 @@ https://github.com/mvanhorn/last30days-skill
 
 # 智能客服
 https://github.com/chatwoot/chatwoot
+
+
+#  learning
+https://github.com/HKUDS/DeepTutor
+https://github.com/wheresryan22/anatomy
