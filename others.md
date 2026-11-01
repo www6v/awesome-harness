@@ -1,4 +1,8 @@
 
+# meta-harness
+https://github.com/omnigent-ai/omnigent
+
+
 # IaC
 https://github.com/alchemy-run/alchemy
 

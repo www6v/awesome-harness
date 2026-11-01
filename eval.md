@@ -14,3 +14,4 @@ https://github.com/Arize-ai/phoenix
 
 
 
+https://github.com/modelscope/evalscope
