@@ -24,12 +24,16 @@ https://github.com/omnigent-ai/omnigent
 
 # harness
 https://github.com/Ebony-Vinyl/dsh-our-free-model
+https://github.com/QwenLM/Qwen-MM-Plugins  multimodal for harness
+
+
+
 
 # SDLC
 https://github.com/alibaba/open-code-review
 
 
 
-
+https://github.com/kunpengtalk/OmniStudio  OmniStudio 本地 AI 模型平台
 
 

@@ -38,6 +38,7 @@ https://github.com/mvanhorn/last30days-skill
 
 # 智能客服
 https://github.com/chatwoot/chatwoot
+https://knocket.trtc.io  tencent 免费
 
 # resume
 https://github.com/reactive-resume/reactive-resume
