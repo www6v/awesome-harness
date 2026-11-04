@@ -9,6 +9,7 @@ https://github.com/Anil-matcha/open-duet
 https://github.com/elie222/rakazo  
 https://today.ai/ 
 
+https://github.com/deepseek-ai/dsh-superagent-prototype
 
 # 数字员工
 https://github.com/OpenBMB/StaffDeck  
