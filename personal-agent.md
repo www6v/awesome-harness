@@ -15,6 +15,13 @@ https://github.com/OpenBMB/StaffDeck
 https://qoder.com/zh/qoderwake
 qwen办公 里有数字员工
 
+# meta-harness
+https://github.com/HarnessRouter/harnessrouter     agent 网关， litellm也有 agent 网关
+https://github.com/omnigent-ai/omnigent
+https://github.com/omnigent-ai/omnigent
+
+
+
 
 
 

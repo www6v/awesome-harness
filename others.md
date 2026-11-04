@@ -1,6 +1,9 @@
 
-# meta-harness
-https://github.com/omnigent-ai/omnigent
+
+
+
+# book
+https://github.com/bojieli/ai-agent-book
 
 
 # IaC
@@ -43,6 +46,7 @@ https://github.com/reactive-resume/reactive-resume
 #  learning
 https://github.com/HKUDS/DeepTutor
 https://github.com/wheresryan22/anatomy
+https://github.com/virgiliojr94/book-to-skill
 
 
 # kb
@@ -55,3 +59,16 @@ https://github.com/tt-a1i/archify
 
 # harness
 https://github.com/Ebony-Vinyl/dsh-our-free-model
+
+
+# xxx
+cc switch
+https://github.com/yetone/magpie
+
+
+# tts
+https://github.com/microsoft/VibeVoice
+
+
+# SDLC
+https://github.com/alibaba/open-code-review
