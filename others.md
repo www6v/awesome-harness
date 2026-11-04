@@ -57,9 +57,6 @@ https://github.com/Tencent/WeKnora
 https://github.com/nexu-io/open-design
 https://github.com/tt-a1i/archify
 
-# harness
-https://github.com/Ebony-Vinyl/dsh-our-free-model
-
 
 # xxx
 cc switch
@@ -70,5 +67,3 @@ https://github.com/yetone/magpie
 https://github.com/microsoft/VibeVoice
 
 
-# SDLC
-https://github.com/alibaba/open-code-review

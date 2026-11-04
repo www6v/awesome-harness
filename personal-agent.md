@@ -22,6 +22,14 @@ https://github.com/omnigent-ai/omnigent
 
 
 
+# harness
+https://github.com/Ebony-Vinyl/dsh-our-free-model
+
+# SDLC
+https://github.com/alibaba/open-code-review
+
+
+
 
 
 
