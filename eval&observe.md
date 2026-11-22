@@ -26,5 +26,7 @@ https://github.com/comet-ml/opik
 https://github.com/lmnr-ai/lmnr
 
 
+https://github.com/openlit/openlit
+
 
 
